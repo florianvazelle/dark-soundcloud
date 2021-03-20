@@ -4,7 +4,7 @@ This is a dark theme for Soundcloud inspired by Github Dark and Dark Gitlab.
 
 ## Installing
 
-[![alt tag](https://img.shields.io/badge/Install%20directly%20with-Stylus-%233daee9?style=for-the-badge)](https://github.com/florianvazelle/dark-soundcloud/raw/master/dark-soundcloud.user.css)
+[![alt tag](https://img.shields.io/badge/Install%20directly%20with-Stylus-%233daee9?style=for-the-badge)](https://github.com/florianvazelle/dark-soundcloud/raw/main/dark-soundcloud.user.css)
 
 #### Using a browser extension:
 
