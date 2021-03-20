@@ -1,0 +1,46 @@
+{
+  "name": "Dark-Soundcloud",
+  "version": "0.1.0",
+  "description": "Dark theme for Soundcloud",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianvazelle/dark-soundcloud.git"
+  },
+  "keywords": [
+    "stylus",
+    "theme",
+    "stylus-theme",
+    "dark-theme",
+    "soundcloud",
+    "soundcloud-theme",
+    "soundcloud-dark-theme"
+  ],
+  "author": "Florian Vazelle",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/florianvazelle/dark-soundcloud/issues"
+  },
+  "homepage": "https://github.com/florianvazelle/dark-soundcloud#readme",
+  "engines": {
+    "node": ">=12"
+  },
+  "devDependencies": {
+    "escape-string-regexp": "4.0.0",
+    "eslint": "7.21.0",
+    "eslint-config-silverwind": "29.0.0",
+    "fast-glob": "3.2.5",
+    "fetch-css": "3.1.10",
+    "fetch-enhanced": "5.0.1",
+    "node-fetch": "2.6.1",
+    "open": "8.0.2",
+    "perfectionist": "2.4.0",
+    "remap-css": "5.0.7",
+    "rimraf": "3.0.2",
+    "stylelint": "13.12.0",
+    "stylelint-config-silverwind": "2.0.8",
+    "updates": "11.4.3",
+    "versions": "8.4.5"
+  }
+}

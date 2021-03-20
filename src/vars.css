@@ -1,0 +1,23 @@
+@-moz-document domain("soundcloud.com") {
+  :root:root {
+    --dark: #292929;
+    --darken: #333;
+    --darker: #424242;
+    --light: #e6e6e6;
+    --lighter: #bababa;
+    --accent: #f50;
+    --shadow: #00000025;
+    --yellow: #f0c674;
+    --orange: #d98245;
+    --red: #a54242;
+    --magenta: #b294bb;
+    --violet: #85678f;
+    --blue: #54738c;
+    --cyan: #5e8d87;
+    --green: #7b823a;
+    --white: #fff;
+    --t: transparent;
+    --radius: 3px;
+    --bg-img: /*[[bg-choice]]*/;
+  }
+}
