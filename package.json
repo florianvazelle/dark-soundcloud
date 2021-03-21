@@ -40,6 +40,7 @@
     "rimraf": "3.0.2",
     "stylelint": "13.12.0",
     "stylelint-config-silverwind": "2.0.8",
+    "svg64": "^1.1.0",
     "updates": "11.4.3",
     "versions": "8.4.5"
   }
