@@ -1,0 +1,8 @@
+@-moz-document domain("soundcloud.com") {
+  .searchTitle {
+    background: unset;
+  }
+  .searchTitle__text {
+    color: var(--light);
+  }
+}

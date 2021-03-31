@@ -54,10 +54,10 @@
     background-color: var(--dark);
   }
   .playControls__play {
-    background-image: url(--svg-pause);
+    background-image: url(--svg-play);
   }
   .playControls__play.playing {
-    background-image: url(--svg-play);
+    background-image: url(--svg-pause);
   }
   .playControls__next {
     background-image: url(--svg-next);
